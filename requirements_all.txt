@@ -1554,5 +1554,5 @@ zigpy==0.2.0
 # homeassistant.components.zoneminder
 zm-py==0.0.1
 
-# nefit-client
-nefit-client
+# pyaes
+pyaes==1.6.1
